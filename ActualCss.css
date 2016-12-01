@@ -1,0 +1,28 @@
+﻿#masthead{
+         background-image:url("thumb.jpg");
+	 height:250px;}
+	 
+#top_nav{
+         background-color:aqua;
+         height:30px;
+         text-align:center;}
+
+#left_col{
+         background-color:lime;
+         width:250px;
+         height:635px;}
+
+#page_content{
+        height:635px;
+         padding-left:10px;
+         background-image:}
+	 
+	 
+#footer{
+	border-bottom-color: #FFFF00;
+	border: #FFFF00;
+	border-color: #FFFF00;
+	background: Yellow;
+	height: 35px;
+	background-color;
+}
